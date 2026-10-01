@@ -5,4 +5,4 @@ count = 0
 for text in name:
     if text == "n":
         count = count+1
-print("Total same words: ",count)        
+print("Total same words: ",count)  
